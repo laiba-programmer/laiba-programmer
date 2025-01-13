@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead](https://masterpiecer-images.s3.yandex.net/3a69e52470fb11ee8c902aacdc0146ad:upscaled)
+[![MasterHead height="20px"](https://masterpiecer-images.s3.yandex.net/3a69e52470fb11ee8c902aacdc0146ad:upscaled)
 <h1 align="center">Hi 👋, I'm Laiba</h1>
 <h3 align="center">A passionate Full Stack developer To be from pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
